@@ -90,11 +90,17 @@ df.isnull().sum()
 Numerical values were handled using the median, categorical values using the mode, and missing medication values were marked as unknown.
 
 💻 Technologies Used
+
 Python
+
 Pandas
+
 NumPy
+
 Jupyter Notebook
+
 Matplotlib
+
 Seaborn
 
 📊 Result
